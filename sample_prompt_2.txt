@@ -1,0 +1,1 @@
+Using the base image create a NEW image showcasing a man installing a lightbulb, with the text "Handyman". Utilise the same colour scheme and pallete of the base image.
