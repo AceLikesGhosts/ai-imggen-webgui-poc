@@ -9,7 +9,7 @@ Python 3.12, OpenAI (GPT-40 + DALL-E 3), GCS, OCR, Sveltekit
 - Web UI with ability to view all uploaded generated images.
 
 ## Demo Video
-<video src="simple_demo.mp4"></video>
+<video src="simple_demo.mp4" width="1440px" height="2560px"></video>
 
 ## Setup
 
